@@ -1,3 +1,5 @@
 SO utilizado: Linux mint 19.3 Tricia
 Linguagem utilizada: C++(utlizando configurações de compilador c++11)
 IDE utilizada: Eclipse
+
+A entrada deve ser feita de nove numeros inteiros de 0 a 8, sendo o 0 indica o espaço vazio em cada algoritmo
